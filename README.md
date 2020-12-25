@@ -2,4 +2,4 @@
 
 # Movie App 2020
 
-React JS
+Movie App made with React JS
